@@ -1,7 +1,7 @@
 # Automation_Test
 Weather API Automation Test
 
-##Pre-Requisites & Project Setup:
+## Pre-Requisites & Project Setup:
 A. Node.js (npm)
 B. Cypress 
 C. Code Editor
@@ -17,6 +17,9 @@ The base URL of our API is provided in cypress.json file:
 
 Our API test resides within the _sample.spec.js_ file in the _Services_ folder inisde _Integration_ folder within Cypress folder created during step B (Cypress installation)
 ![image](https://user-images.githubusercontent.com/10388724/120902781-e3255700-c65f-11eb-83e5-8d3ae7c2c752.png)
+This is to test the Happy path of firing GET request to the provided weather API: http://api.weatherstack.com
+
+![image](https://user-images.githubusercontent.com/10388724/120903301-10273900-c663-11eb-8286-e01bf9f60f1e.png)
 
 ## Steps to Run the API Test
 1. Open command prompt
@@ -32,3 +35,5 @@ Select our folder within the Integration folder (`Integration/Services/`)
 
 We can find our test run in the new browser window launched and the output of our API test can be seen as below:
 ![image](https://user-images.githubusercontent.com/10388724/120903079-b1ad8b00-c661-11eb-96d3-fb0b8f0f00d1.png)
+
+The output displays the status of the tests whether Pass/Fail, which in this case is green (Pass)!
