@@ -37,3 +37,5 @@ We can find our test run in the new browser window launched and the output of ou
 ![image](https://user-images.githubusercontent.com/10388724/120903079-b1ad8b00-c661-11eb-96d3-fb0b8f0f00d1.png)
 
 The output displays the status of the tests whether Pass/Fail, which in this case is green (Pass)!
+
+Feel free to fork it and play around.
