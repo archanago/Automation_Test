@@ -1,5 +1,5 @@
 # Automation_Test
-Weather API Automation Test
+This project is to test following weather API: http://api.weatherstack.com
 
 ## Pre-Requisites & Project Setup:
 A. Node.js (npm)
